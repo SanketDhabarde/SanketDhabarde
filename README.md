@@ -34,8 +34,8 @@
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
 -->
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=SanketDhabarde&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=SanketDhabarde&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api?username=SanketDhabarde&show_icons=true&count_private=true&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SanketDhabarde&show_icons=true&count_private=true&theme=tokyonight"/>
 </a>
 </div>
 
