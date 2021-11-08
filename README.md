@@ -53,8 +53,8 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Objects: the basics](https://sanketdhabarde.hashnode.dev/objects-the-basics)
-- [Polyfill for bind() method](https://sanketdhabarde.hashnode.dev/polyfill-for-bind-method)
-- [call(), apply(), and bind()](https://sanketdhabarde.hashnode.dev/call-apply-and-bind)
+- [Polyfill for bind&lpar;&rpar; method](https://sanketdhabarde.hashnode.dev/polyfill-for-bind-method)
+- [call&lpar;&rpar;, apply&lpar;&rpar;, and bind&lpar;&rpar;](https://sanketdhabarde.hashnode.dev/call-apply-and-bind)
 - [Prototype and prototypal inheritance](https://sanketdhabarde.hashnode.dev/prototype-and-prototypal-inheritance)
 - [Different types of functions in JavaScript](https://sanketdhabarde.hashnode.dev/different-types-of-functions-in-javascript)
 <!-- BLOG-POST-LIST:END -->
