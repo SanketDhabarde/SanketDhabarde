@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on reactjs and javascript.
 - 🕺  I’m looking to collaborate with anyone on any project.
-- 🤔 I’m looking for help with backend technologies.
 - ⚡ Fun fact: I love to watch anime, series and read mangas.
 
 
